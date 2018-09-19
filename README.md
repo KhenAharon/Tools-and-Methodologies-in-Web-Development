@@ -56,4 +56,4 @@ sudo docker-compose up -d
 Now you can run the Calculate Application. Open your brouser and insert the follow URL:
  [localhost:8000](http://localhost:8000/login) 
 
-Login and use the calculator. :)
+Login and use the calculator.
