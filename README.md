@@ -1,6 +1,6 @@
 # Calculator Service
 
-This is a TDD exercise for "Tools and Methodologies in Web Development" course at Bar Ilan University.
+This is a TDD project for "Tools and Methodologies in Web Development" course at Bar Ilan University.
 
 The course was lectured by [Gil Tayar](http://www.GitHub.com/GilTayar), the former vice president of [Wix](https://www.wix.com/).
 
