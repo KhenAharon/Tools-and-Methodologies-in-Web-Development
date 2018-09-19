@@ -42,7 +42,7 @@ npm run test
 
 For the next step you should have Docker on your computer.
 
-Run the dockr:
+Run the docker:
 ```
 sudo docker build . -t currency-calculator
 sudo docker run -d -p 3000:3000 currency-calculator
