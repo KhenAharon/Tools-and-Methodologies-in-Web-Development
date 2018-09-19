@@ -1,0 +1,23 @@
+{
+  "name": "calculate_project",
+  "version": "1.0.0",
+  "description": "calculate function and test",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --exit --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/osnatairy/Calculator-Service.git"
+  },
+  "author": "Khen Aharon & Osnat Drien",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.1.2",
+    "chai-http": "^4.0.0",
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "request": "^2.87.0"
+  }
+}
