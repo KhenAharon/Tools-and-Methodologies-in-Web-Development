@@ -1,7 +1,7 @@
 # Calculator Service
 
-This is an exericise TDD project for "Tools and Methodologies in Web Development" course at Bar Ilan University,
-that was lectured by [Gil Tayar](http://www.GitHub.com/GilTayar), the former vice president of [Wix](https://www.wix.com/).
+This is an exericise TDD project for "Tools and Methodologies in Web Development" course at Bar Ilan University.
+The course was lectured by [Gil Tayar](http://www.GitHub.com/GilTayar), the former vice president of [Wix](https://www.wix.com/).
 This is a calculator web service you can use easily by following those instructions.
 
 ## Getting Started
