@@ -10,9 +10,9 @@ This is a calculator web service you can use easily by following those instructi
 
 In order to run this project we use:
 
-* [Git](https://maven.apache.org/) - to get the project.
-* [Node.js](http://www.dropwizard.io/1.0.2/docs/) - using express and mocha among other packages.
-* [Docker](https://maven.apache.org/) - for create docker container and docker compose.
+* [Git](https://git-scm.com/) - to get the project.
+* [Node.js](https://nodejs.org/en/) - using express and mocha among other packages.
+* [Docker](https://www.docker.com/) - for create docker container and docker compose.
 
 
 ### Clone
