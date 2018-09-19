@@ -20,7 +20,7 @@ In order to run this project we use:
 Open GIT CMD and clone the project to your local computer.
 Use the comman:
 ```
-git clone https://github.com/osnatairy/Calculator-Service.git
+git clone https://github.com/KhenAharon/Tools-and-Methodologies-in-Web-Development.git
 ```
 
 ## Running the tests
